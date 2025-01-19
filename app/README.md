@@ -25,4 +25,4 @@ This project provides functionality to display a list of items grouped by `listI
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/projectname.git
+   git clone https://github.com/ClaireTsai123/GroupedItemApp.git
